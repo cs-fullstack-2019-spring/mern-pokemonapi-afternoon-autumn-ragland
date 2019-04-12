@@ -6,6 +6,7 @@
   display: grid;
   grid-template-columns: repeat(3,1fr);
   padding: 0 2% 2% 2%;
+  text-align: center;
 }
 
 .pokemon{
@@ -17,7 +18,7 @@
 .titleHeader{
   background: lightgray;
   color:white;
-  height: 10vh;
+  height: 15vh;
   margin: 0 2% 0 2%;
   padding-top: 3%;
 }
